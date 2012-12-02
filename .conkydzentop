@@ -1,0 +1,14 @@
+# Conky configuration for Dzen2, to be piped into ScrotWM Bar
+
+##############################################
+#  Settings
+##############################################
+use_xft yes
+out_to_x no
+background no
+out_to_console yes
+update_interval 1.0
+total_run_times 0
+use_spacer none
+TEXT
+^fg(\#87afd7)^i(/home/samir/.xmonad/dzen/cpu.xbm) ^fg(\#ffaf5f)${cpu cpu0}% ^fg(\#87afd7)^i(/home/samir/.xmonad/dzen/cpu.xbm) ^fg(\#ffaf5f)${cpu cpu1}% ^fg(\#87afd7)^i(/home/samir/.xmonad/dzen/cpu.xbm) ^fg(\#ffaf5f)${cpu cpu2}% ^fg(\#87afd7)^i(/home/samir/.xmonad/dzen/cpu.xbm) ^fg(\#ffaf5f)${cpu cpu3}% ^fg(\#444444)| ^fg(\#87afd7)^i(/home/samir/.xmonad/dzen/net_wired.xbm) ^fg(\#9d9d9d)${addr eth0} ^fg(\#444444)| ^fg(\#87afd7)^i(/home/samir/.xmonad/dzen/net_up_01.xbm) ^fg(\#ffaf5f)${upspeedf eth0}kb/s ^fg(\#444444)| ^fg(\#87afd7)^i(/home/samir/.xmonad/dzen/net_down_01.xbm) ^fg(\#ffaf5f)${downspeedf eth0}kb/s ^fg(\#444444)| ^fg(\#87afd7)^i(/home/samir/.xmonad/dzen/spkr_01.xbm)^fg(\#d75f5f)$color ${exec amixer get Master | egrep -o "[0-9]+%" | head -1 | egrep -o "[0-9]*"}% ^fg(\#444444)| ^fg(\#87afd7)^i(/home/samir/.xmonad/dzen/note.xbm) ^fg(\#87af5f)${mpd_artist} - ${mpd_title} (${mpd_status}) ^fg(\#444444)| ^fg(\#87afd7)^i(/home/samir/.xmonad/dzen/clock.xbm)^fg(\#9d9d9d) ${time %A %b. %d, %Y - %H:%M}  
