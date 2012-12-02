@@ -1,0 +1,86 @@
+!-------------------------------------------------------------------------------
+!
+!	U R X V T
+!
+! General
+
+URxvt.termName:                 	rxvt-unicode
+
+Xft.dpi:                            96
+Xft.antialias:              		true
+Xft.hinting:            			full
+Xft.hintstyle:              		hintslight
+Xft.rgba:                           rgb
+
+Xcursor.theme:          			Neutral_Plus_Inverted
+Xcursor.size:           			10
+ 
+URxvt.imLocale:                 	bs_BA.UTF-8
+URxvt.scrollBar:                	false
+URxvt.saveLines:                	32767
+
+URxvt.transparent: 					true
+URxvt.shading: 						40 
+
+!! Cursor
+
+URxvt.cursorBlink:          		true
+URxvt.cursorColor:          		#FFFFFF
+ 
+ 
+URxvt.visualBell:               	true
+ 
+!! urlLauncher 
+
+URxvt.perl-lib:           			/usr/lib/urxvt/perl/
+URxvt.perl-ext-common:    			default,matcher
+URxvt.urlLauncher:        			/usr/bin/swiftweasel
+URxvt.matcher.button:     			1
+URxvt.matcher.pattern.1:  			\\bwww\\.[\\w-]+\\.[\\w./?&@#-]*[\\w/-]
+ 
+!! Fonts
+
+URxvt.font:                 		xft:Monaco:pixelsize=12:antialias=true:hinting=true
+URxvt.boldFont:                 	xft:Monaco:pixelsize=12:antialias=true:bold:hinting=true
+URxvt.italicFont:               	xft:Monaco:pixelsize=12:antialias=true:italic:autohint=true:hinting=true
+URxvt.bolditalicFont:           	xft:Monaco:pixelsize=12:antialias=true:bold:italic:autohint=true:hinting=true
+ 
+!! Colours
+
+!*background:                		#222222
+*foreground:                		#a4a4a4
+ 
+! ---| Jellybeans |--- {{{
+! Black
+*color0:        #1a1a1a
+*color8:        #404040
+! Red
+*color1:        #d75f5f
+*color9:        #d75f5f
+! Green
+*color2:        #87af5f
+*color10:       #C7F09F
+! Yellow
+*color3:        #ffaf5f
+*color11:       #FFCC9A
+! Blue
+*color4:        #87afd7
+*color12:       #a5caef
+! Mangenta
+*color5:        #8787af
+*color13:       #A6A6DE
+! Cyan
+*color6:        #5f8787
+*color14:       #69b2b2
+! White
+*color7:        #808080
+*color15:       #d7d7d7
+ 
+! ---| xpdf |--- {{{
+xpdf*enableFreetype: yes
+xpdf*antialias: yes
+xpdf*foreground: black
+xpdf*background: white
+xpdf*urlCommand: swiftweasel %s
+xpdf*viKeys: on
+!}}}
