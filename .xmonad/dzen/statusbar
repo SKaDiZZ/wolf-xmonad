@@ -1,0 +1,28 @@
+#!/bin/bash
+#Dzen2 Second Monitor Status Bar
+
+loc="/home/samir/.xmonad/dzen/"
+sep="^i(${loc}sep.xbm)"
+vid="^fg(#ff8800)^i(${loc}vid.xbm)^fg()"
+cpu="^fg(#ff8800)^i(${loc}cpu.xbm)^fg()"
+mbd="^fg(#ff8800)^i(${loc}mbd.xbm)^fg()"
+xkl="^fg(#ff8800)^i(${loc}xkl.xbm)^fg()"
+
+while true; do
+	# LM Sensor Temperatures:
+	vpu=$(nvidia-settings -q GPUCoreTemp | awk '/):/ {print "+"$4"0°C"}')
+	tempLine=$(sensors | awk '/CPU T/ || /MB T/ {print $3}')
+	temp=( $vpu $tempLine )
+	echo -n "${vid} ${temp[0]} ${cpu} ${temp[1]} ${mbd} ${temp[2]} ${sep} "
+
+	# Clock
+	date "+%A %b. %d, %Y ${sep} %H:%M %Z "
+	sleep 5
+done | \
+dzen2 -x '1200' -h 16 -w 800			\
+-bg '#1a1a1a' -fg '#9d9d9d'			\
+-fn 'AvantGarde LT Medium:size=7' -ta r	\
+-e '' &
+
+
+
