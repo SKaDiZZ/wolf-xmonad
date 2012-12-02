@@ -1,0 +1,269 @@
+info_begin
+format: 1
+mpd_version: 0.17.2
+fs_charset: UTF-8
+tag: Artist
+tag: ArtistSort
+tag: Album
+tag: AlbumArtist
+tag: AlbumArtistSort
+tag: Title
+tag: Track
+tag: Name
+tag: Genre
+tag: Date
+tag: Composer
+tag: Performer
+tag: Disc
+tag: MUSICBRAINZ_ARTISTID
+tag: MUSICBRAINZ_ALBUMID
+tag: MUSICBRAINZ_ALBUMARTISTID
+tag: MUSICBRAINZ_TRACKID
+info_end
+song_begin: ADIL - LJUBI ME PO SECANJU - TEKST.mp3
+Time: 243
+Artist: Adil
+Title: Ljubi me po sjećanju
+mtime: 1350932794
+song_end
+song_begin: Adil - Laku noc (2012) Grand Diet Plus Festival (Live).MP3
+Time: 225
+Artist: Adil
+Title: Laku noc
+Date: 2012
+Genre: Folk
+mtime: 1350932118
+song_end
+song_begin: Adil - Od usana do stopala 2011.mpg.mp3
+Time: 267
+Artist: Adil
+Title: Od usana do stopala
+Date: 2011
+Genre: Folk
+mtime: 1350932282
+song_end
+song_begin: Adil Maksutović - Sinovi tuge (Zvanični video) [HQ].MP3
+Time: 287
+Artist: Adil Maksutović
+Title: Sinovi tuge
+Date: 2012
+mtime: 1350932316
+song_end
+song_begin: Alex Mica - Dalinda (Official Video).MP3
+Time: 207
+Artist: Alex Mica
+Title: Dalinda
+Date: 2012
+Genre: Dance
+mtime: 1351421960
+song_end
+song_begin: Allexinno & Starchild - Senorita.mp3
+Time: 217
+Artist: Allexinno & Starchild
+Title: Senorita
+Date: 2012
+Genre: Dance
+mtime: 1351414690
+song_end
+song_begin: Ana Bekuta - Imam jedan život (Sava Centar 22.02.2012.).MP3
+Time: 211
+Artist: Ana Bekuta
+Title: Imam jedan život
+Date: 2012
+mtime: 1350932356
+song_end
+song_begin: Claydee - Mamacita Buena (Official Video).MP3
+Time: 235
+Artist: Claydee
+Title: Mamacita Buena
+Date: 2012
+Genre: Dance
+mtime: 1351414736
+song_end
+song_begin: Dado Polumenta - Ko zna gdje si [OFFICIAL HQ VIDEO _ SPOT].MP3
+Time: 279
+Artist: Dado Polumenta
+Title: Ko zna gdje si
+Genre: Folk
+mtime: 1350932388
+song_end
+song_begin: Denial Ahmetovic - Ljubi me po sjecanju.MP3
+Time: 133
+Artist: Denial Ahmetović
+Title: Ljubi me po sećanju
+Date: 2012
+Genre: Folk
+mtime: 1351422012
+song_end
+song_begin: Far East Movement - Like A G6 ft. The Cataracs, DEV.MP3
+Time: 1647
+Artist: Far east movement
+Title: Like a G6
+Date: 2012
+Genre: Hip Hop
+mtime: 1351422048
+song_end
+song_begin: GOCA TRZAN _ STOPERKA.MP3
+Time: 1348
+Artist: Goca Tržan
+Title: Stoperka
+mtime: 1350932418
+song_end
+song_begin: GOCA TRZAN-STRASILO (OFFICIAL VIDEO).MP3
+Time: 243
+Artist: Goca Tržan
+Title: Strašilo
+mtime: 1350932444
+song_end
+song_begin: Gru feat. Ajs Nigrutin - I Dalje Me ele (Official Music Video).mp3
+Time: 229
+Artist: Gru feat Ajs
+Title: I dalje me žele
+Genre: Hip Hop
+mtime: 1350932484
+song_end
+song_begin: Gusttavo Lima - Balada Boa (LETRA).mp3
+Time: 190
+Artist: Gustavo Lima
+Title: Balada Boa
+Date: 2012
+Genre: Latino
+mtime: 1351422080
+song_end
+song_begin: In Vivo - Moje Leto (ft. BoyanT).mp3
+Time: 217
+Artist: InVivo
+Title: Moje ljeto
+Date: 2012
+Genre: PoP
+mtime: 1351362398
+song_end
+song_begin: Ivana Selakov - Moje ime je sreca.MP3
+Time: 1569
+Artist: Ivana Selakov
+Title: Moje ime je sreća
+mtime: 1350932508
+song_end
+song_begin: Maya - Leti Ptico Slobodno [Single 2012.].MP3
+Time: 227
+Artist: Maya
+Title: Leti ptico slobodno
+Date: 2012
+Genre: Folk
+mtime: 1350932538
+song_end
+song_begin: Mike Candys & Evelyn feat. Patrick Miller - One Night In Ibiza (Dirty Club Mix).mp3
+Time: 309
+Artist: Mike Candys
+Title: One night in Ibiza
+Date: 2012
+Genre: Disco Trance
+mtime: 1351422170
+song_end
+song_begin: Milan Mitrovic - Necu da me starost pita - www.domaci.de.mp3
+Time: 188
+Artist: Milan Mitrović
+Title: Neću da me starost pita
+mtime: 1350932562
+song_end
+song_begin: Mina Kostic & Igor X - Grudi od betona.MP3
+Time: 216
+Artist: Mina Kostić
+Title: Grudi od betona
+mtime: 1350932586
+song_end
+song_begin: Morris - Boca Linda (Official Video).MP3
+Time: 199
+Artist: Morris
+Title: Boca Linda
+Date: 2012
+Genre: Dance
+mtime: 1351422198
+song_end
+song_begin: OK BAND-NASELI NA LJUBAV (Official Music Video).MP3
+Time: 244
+Artist: OK Band
+Title: Naseli na ljubav
+mtime: 1350932690
+song_end
+song_begin: Petar Mitic Gas do daske.mp3
+Time: 188
+Artist: Petar Miric
+Title: Gas do daske
+Date: 2012
+mtime: 1350932240
+song_end
+song_begin: Sean Paul - She Doesn't Mind [Official Music Video].mp3
+Time: 245
+Artist: Sean Paul
+Title: She doesn't mind
+Date: 2012
+Genre: Hip Hop
+mtime: 1351422232
+song_end
+song_begin: Seki Turkovic - Sedi malo za moj sto.MP3
+Time: 229
+Artist: Šeki Turković
+Title: Sedi malo za moj sto
+Genre: Folk
+mtime: 1350932714
+song_end
+song_begin: Suavemente Pitbull featuring Nayer and Mohombi With Lyrics.mp3
+Time: 228
+Artist: Pitbull feat Nayer
+Title: Suavemente
+Date: 2012
+Genre: Hip Hop
+mtime: 1351422270
+song_end
+song_begin: Tony Ray feat. Gianna - Chica Loca (Official Music Video HD).MP3
+Time: 187
+Artist: Tony Ray feat Gianna
+Title: Chica Loca
+Date: 2012
+Genre: Dance
+mtime: 1351422302
+song_end
+song_begin: Trile Feat. Sha - Brzi od metka (OFFICIAL HD VIDEO) 2011.mp3
+Time: 204
+Artist: Trile feat Sha
+Title: Brži od metka
+Date: 2011
+Genre: Hip Hop
+mtime: 1350932752
+song_end
+song_begin: karolina goceva - vise se ne vracas.mp3
+Time: 200
+Artist: Karolina Gočeva
+Title: Više se ne vraćaš
+Date: 2012
+Genre: PoP
+mtime: 1350933712
+song_end
+song_begin: mlaDJa & Big Time feat. Jovan Perisic & Aleksandar Olujic - Harmonika (OFFICIAL VIDEO).MP3
+Time: 226
+Artist: mlaDJa feat Olujić
+Title: Harmonika
+mtime: 1350932668
+song_end
+song_begin: ♫ DJ Elon Matana - Hits of 2012 Vol 6 ♫ __HD 1080p_ (Tracklist OffiCiaL).MP3
+Time: 898
+Artist: DJ Elon Matana
+Title: Hits 2012 remix
+Date: 2012
+Genre: Disco
+mtime: 1351362458
+song_end
+song_begin: Neda_Ukraden_-_Najbolji_klub_u_gradu_(DEEJAY_SKY_REMIX_2012)_-_www.mp3arhiva.in.mp3
+Time: 327
+Artist: Neda Ukraden  (DEEJAY SKY REMIX 2012)
+AlbumArtist: www.mp3arhiva.in
+Title: Neda Ukraden - Najbolji klub u gradu (DEEJAY SKY REMIX 2012) - www.mp3arhiva.in.mp3
+Album: www.mp3arhiva.in
+Track: www.mp3arhiva.in/www.mp3arhiva.in
+Date: www.
+Genre: www.mp3arhiva.in
+Composer: www.mp3arhiva.in
+Disc: www.mp3arhiva.in/www.mp3arhiva.in
+mtime: 1350933950
+song_end
